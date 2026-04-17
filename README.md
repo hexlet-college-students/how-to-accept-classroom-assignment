@@ -7,7 +7,7 @@
 
 3. Примите задание (кнопка "Accept this assignment")
 
-4. Если вы увидели ошибку доступа: "Repository access issue. You no longer have access to your assignment repository. Contact your teacher for support", то перейдите по следующему адресу в браузере: https://github.com/orgs/hexlet-college-students/[скопированное имя задания], в случае как на скриншоте это будет https://github.com/orgs/hexlet-college-students/l1-element-layout-v4-sseezov
+4. Если вы увидели ошибку доступа: "Repository access issue. You no longer have access to your assignment repository. Contact your teacher for support", то перейдите по следующему адресу в браузере: https://github.com/orgs/hexlet-college-students/ [скопированное имя задания], в случае как на скриншоте это будет https://github.com/orgs/hexlet-college-students/l1-element-layout-v4-sseezov
    
 6. Клонируйте репозиторий и выполняйте работу
 
